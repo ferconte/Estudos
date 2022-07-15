@@ -17,7 +17,7 @@
 
 ##### Os endereços IP públicos têm dois formatos: dinâmico e estático.
 
-*```Os endereços IP dinâmicos mudam automática e regularmente.```*
+*```Os endereços IP dinâmicos mudam de forma automática e regularmente.```*
 
 *```Os endereços estáticos permanecem consistentes. Uma vez que a rede atribui um endereço IP, ele permanece o mesmo.```*
 
