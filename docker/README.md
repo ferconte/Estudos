@@ -1,1 +1,1 @@
-**Pasta dedicada para expor meus estudos em relação a ferramente Docker e seus recursos!**
+**Pasta dedicada para anotar e expor meus estudos sobre a ferramenta Docker e suas funcionalidades!**
